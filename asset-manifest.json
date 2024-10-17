@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-AgeCheck/static/css/main.eabc18c2.css",
+    "main.js": "/My-AgeCheck/static/js/main.6133b1bb.js",
+    "static/js/453.f89f49f9.chunk.js": "/My-AgeCheck/static/js/453.f89f49f9.chunk.js",
+    "index.html": "/My-AgeCheck/index.html",
+    "main.eabc18c2.css.map": "/My-AgeCheck/static/css/main.eabc18c2.css.map",
+    "main.6133b1bb.js.map": "/My-AgeCheck/static/js/main.6133b1bb.js.map",
+    "453.f89f49f9.chunk.js.map": "/My-AgeCheck/static/js/453.f89f49f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eabc18c2.css",
+    "static/js/main.6133b1bb.js"
+  ]
+}
